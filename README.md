@@ -1,0 +1,2 @@
+# DPLL-SAT-SOLVE
+DPLL is a complete and sound algorithm, which means it can correctly determine the satisfiability of a formula and, if satisfiable, find a satisfying assignment. It is also widely used in practical SAT solvers due to its efficiency and ability to handle large, real-world instances of SAT problems. Heuristic enhancements, efficient data structures, and pruning techniques are often incorporated to improve the algorithm's performance in modern SAT solvers.
